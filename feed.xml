@@ -3,10 +3,34 @@
     <title>vfd world</title>
     <link href="https://vfd1018.github.io/vfd1018.github.io/feed.xml" rel="self" />
     <link href="https://vfd1018.github.io/vfd1018.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-03-22T22:02:33+08:00</updated>
     <author>
         <name>vfd</name>
     </author>
     <id>https://vfd1018.github.io/vfd1018.github.io</id>
 
+    <entry>
+        <title>hahahahhaha</title>
+        <author>
+            <name>vfd</name>
+        </author>
+        <link href="https://vfd1018.github.io/vfd1018.github.io/hahahahhaha.html"/>
+        <id>https://vfd1018.github.io/vfd1018.github.io/hahahahhaha.html</id>
+
+        <updated>2025-03-22T22:02:33+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>hahaha</title>
+        <author>
+            <name>vfd</name>
+        </author>
+        <link href="https://vfd1018.github.io/vfd1018.github.io/hahaha.html"/>
+        <id>https://vfd1018.github.io/vfd1018.github.io/hahaha.html</id>
+
+        <updated>2025-03-22T22:02:25+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
